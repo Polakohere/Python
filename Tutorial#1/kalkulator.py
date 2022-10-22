@@ -13,7 +13,3 @@ if Sp == "-":
 if Sp == "*":
     Z = X * Y
     print (Z)
-
-if Sp == "/":
-    Z = X / Y
-    print (Z)
