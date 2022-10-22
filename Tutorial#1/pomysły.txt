@@ -1,0 +1,18 @@
+Skończone:
+
+Program pytający o hasło
+Program wykonujący proste obliczenia
+Program mówiący o pogodzie na podstawie temperatury
+Gra papier, kamień, nożyce
+
+Planowanko:
+
+Gierka RPG adventure tekstowa proste wybory i opcje klawiszowe
+Random Number Game wybierasz liczbę i zgadujesz ją lub program mówi Ci czy jesteś blisko
+Gra prawda fałsz
+Symulator rzutu kością, różne rodzaje kości, różne zasady
+Kółko i krzyżyk (hotseat, vs cpu)
+Gierka z quizami
+Pełen arkusz logowania
+Symulator DnD gdzie cpu jest DM
+Flappy Bird
