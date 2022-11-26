@@ -7,10 +7,11 @@ Gra papier, kamień, nożyce
 
 Warsztat:
 Gra prawda fałsz
+Gierka RPG adventure tekstowa proste wybory i opcje klawiszowe
 
 Planowanko:
 
-Gierka RPG adventure tekstowa proste wybory i opcje klawiszowe
+
 Random Number Game wybierasz liczbę i zgadujesz ją lub program mówi Ci czy jesteś blisko
 Symulator rzutu kością, różne rodzaje kości, różne zasady
 Kółko i krzyżyk (hotseat, vs cpu)
